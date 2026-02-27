@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sznuper/.github/main/assets/logo_1024.png" width="128" alt="Sznuper logo">
+</p>
+
 # Sznuper
 
-Sznuper is a lightweight server monitor that runs health checks and sends notifications — Discord, Slack, Telegram, Teams, and more.
+Sznuper is a lightweight server monitor that runs healthchecks and sends notifications — Discord, Slack, Telegram, Teams, and more.
 
 ## Repositories
 
