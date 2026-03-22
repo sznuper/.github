@@ -9,4 +9,5 @@ Sznuper is a lightweight server monitor that runs healthchecks and sends notific
 ## Repositories
 
 - **[sznuper](https://github.com/sznuper/sznuper)** — the daemon, written in Go
+- **[dist](https://github.com/sznuper/dist)** — install script, systemd service, and VPS E2E tests
 - **[healthchecks](https://github.com/sznuper/healthchecks)** — official healthchecks, written in C with Cosmopolitan Libc for cross-architecture portability
