@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sznuper/.github/main/assets/social-preview.png" alt="Sznuper logo">
+  <img src="https://raw.githubusercontent.com/sznuper/.github/main/assets/readme-banner.png" alt="Sznuper logo">
 </p>
 
 # Sznuper
